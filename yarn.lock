@@ -1654,10 +1654,10 @@ elegant-spinner@^1.0.1:
   resolved "https://registry.yarnpkg.com/elegant-spinner/-/elegant-spinner-1.0.1.tgz#db043521c95d7e303fd8f345bedc3349cfb0729e"
   integrity sha512-B+ZM+RXvRqQaAmkMlO/oSe5nMUOaUnyfGYCEHoR8wrXsZR2mA0XVibsxV1bvTwxdRWah1PkQqso2EzhILGHtEQ==
 
-emailjs@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/emailjs/-/emailjs-5.0.3.tgz#3527970d3bc3d1f4a9e3b8b41a2265683e162709"
-  integrity sha512-Y47oNF5Geurb8GnmST2b+EK8mDLKoDFySxsvZb6YMcNbvdxpjd9FaLQ80p38lUVhq50knveOhkH/c/4afJSFxQ==
+emailjs@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/emailjs/-/emailjs-5.0.4.tgz#418f8a8667ea5f8e25c50eb418ab57d5488a10e6"
+  integrity sha512-uOhcdyW11M+wvla+zEdKD73TaX1f5cfHft1z+NdJl13Gx1ee5K5e+lyftC05c2jPFea0WoTMx4Me8ZmDM4P4bA==
 
 emoji-regex@^10.3.0:
   version "10.6.0"
